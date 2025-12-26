@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I Cry",
+  "base_artist": "Flo Rida",
+  "createdAt": "2025-12-26T16:44:28.579000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/01_It_Only_Hurts_When_I_Cry_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry (Remastered Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/02_It_Only_Hurts_When_I_Cry_(Remastered_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/03_It_Only_Hurts_When_I_Cry_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Cry Too",
+      "artist": "Bob Geldof",
+      "has_synced": false,
+      "path": "select/04_I_Cry_Too_Bob_Geldof.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Two Reasons I Cry",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/05_Two_Reasons_I_Cry_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why I Cry",
+      "artist": "Best Coast",
+      "has_synced": true,
+      "path": "select/06_Why_I_Cry_Best_Coast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Cry",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/07_I_Cry_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Cry (Night after Night)",
+      "artist": "The Egyptian Lover",
+      "has_synced": false,
+      "path": "select/08_I_Cry_(Night_after_Night)_The_Egyptian_Lover.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Cry (Night After Night)",
+      "artist": "Egyptian Lover",
+      "has_synced": false,
+      "path": "select/09_I_Cry_(Night_After_Night)_Egyptian_Lover.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Why Can't I Cry $$$",
+      "artist": "Father",
+      "has_synced": true,
+      "path": "select/10_Why_Can't_I_Cry_$$$_Father.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Why Can't I Cry $$$ [prod. Father & Ethereal]",
+      "artist": "Father",
+      "has_synced": true,
+      "path": "select/11_Why_Can't_I_Cry_$$$_[prod._Father_&_Ethereal]_Father.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Know I Cry",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/12_You_Know_I_Cry_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Tears I Cry",
+      "artist": "Krypteria",
+      "has_synced": true,
+      "path": "select/13_The_Tears_I_Cry_Krypteria.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Why Should I Cry For You?",
+      "artist": "Sting",
+      "has_synced": false,
+      "path": "select/14_Why_Should_I_Cry_For_You_Sting.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Cry",
+      "artist": "Trick Daddy",
+      "has_synced": true,
+      "path": "select/15_I_Cry_Trick_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Cry (feat. Ronald Isley)",
+      "artist": "Trick Daddy",
+      "has_synced": true,
+      "path": "select/16_I_Cry_(feat._Ronald_Isley)_Trick_Daddy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Cry",
+      "artist": "Flo Rida",
+      "has_synced": false,
+      "path": "select/pl_01_I_Cry_Flo_Rida.txt"
+    }
+  ]
+}
